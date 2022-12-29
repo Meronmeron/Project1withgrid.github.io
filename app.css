@@ -45,6 +45,7 @@ body {
   display:grid;
   grid-template-rows: auto auto auto;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .pricing-plan {
